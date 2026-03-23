@@ -133,7 +133,7 @@ OUTPUT_DIR="/ruta/personalizada"
 Aquí agregaré una captura de pantalla demostrando que el script funciona correctamente:
 
 
-./evidencia_descarga.png
+![Evidencia de descarga](evidencia_descarga.png)
 
 
 > (Subir imagen al repositorio y actualizar esta sección)
