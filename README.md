@@ -142,14 +142,19 @@ Aquí agregaré una captura de pantalla demostrando que el script funciona corre
 
 ## 👨‍💻 Autor
 
-Luis David Barahona Valdivieso
-Electronic Engineering | Embedded Systems & FPGA Developer | Telecommunications
+Luis David Barahona Valdivieso  
+Electronic Engineering  
 
 ---
 
-```
+## 🤖 Asistente
+
+ChatGPT  
+Modelo: GPT-5.3  
 
 ---
 
+## ⚠️ Nota
 
-```
+Este repositorio tiene fines educativos.  
+El contenido ha sido asistido por una Inteligencia Artificial.
