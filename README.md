@@ -133,8 +133,7 @@ OUTPUT_DIR="/ruta/personalizada"
 Aquí agregaré una captura de pantalla demostrando que el script funciona correctamente:
 
 ```
-<img width="997" height="368" alt="image" src="https://github.com/user-attachments/assets/8930eac3-aaa1-4303-a19b-6497edf84583" />
-
+./evidencia_descarga.png
 ```
 
 > (Subir imagen al repositorio y actualizar esta sección)
