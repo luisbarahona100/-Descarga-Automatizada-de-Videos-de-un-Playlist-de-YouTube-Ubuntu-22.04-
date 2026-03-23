@@ -135,9 +135,6 @@ Aquí agregaré una captura de pantalla demostrando que el script funciona corre
 
 ![Evidencia de descarga](evidencia_descarga.png)
 
-
-> (Subir imagen al repositorio y actualizar esta sección)
-
 ---
 
 ## 👨‍💻 Autor
